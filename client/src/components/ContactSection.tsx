@@ -41,7 +41,7 @@ const ContactSection = () => {
     setFormSubmitting(true);
 
     try {
-      await apiRequest("POST", "/api/contact", data);
+      await apiRequest("POST", `${import.meta.env.VITE_BACKEND_URL}/api/contact`, data);
 
       setFormSubmitted(true);
       toast({
