@@ -131,7 +131,7 @@ const ContactSection = () => {
 
               {/* Telefone - abrindo no WhatsApp */}
               <a
-                href="https://wa.me/554996771656"
+                href="https://api.whatsapp.com/send?phone=5554996771656&text='Olá, Gostaria de evoluir meu negócio!'"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-start hover:opacity-80 transition-opacity"
