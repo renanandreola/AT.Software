@@ -167,7 +167,7 @@ const Footer = () => {
                   <span className="text-gray-400">andreollatechltda@gmail.com</span>
                 </li>
               </a>
-              <a href="https://api.whatsapp.com/send?phone=5554996771656&text='Olá, Gostaria de evoluir meu negócio!'"
+              <a href="https://api.whatsapp.com/send?phone=5554996771656&text=Ol%C3%A1%2C%20Gostaria%20de%20evoluir%20meu%20neg%C3%B3cio!"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-start hover:opacity-80 transition-opacity">
