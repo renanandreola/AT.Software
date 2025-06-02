@@ -83,7 +83,7 @@ const HeroSection = () => {
             transition={{ duration: 0.6, delay: 0.4 }}
           >
             <div className="text-center">
-              <p className="text-3xl md:text-4xl font-bold text-primary">80+</p>
+              <p className="text-3xl md:text-4xl font-bold text-primary">40+</p>
               <p className="text-gray-400 mt-2">Projetos Entregues</p>
             </div>
             <div className="text-center">
@@ -91,7 +91,7 @@ const HeroSection = () => {
               <p className="text-gray-400 mt-2">Clientes Satisfeitos</p>
             </div>
             <div className="text-center">
-              <p className="text-3xl md:text-4xl font-bold text-primary">6</p>
+              <p className="text-3xl md:text-4xl font-bold text-primary">7</p>
               <p className="text-gray-400 mt-2">Anos de Experiência</p>
             </div>
             <div className="text-center">
